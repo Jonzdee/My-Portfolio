@@ -64,7 +64,7 @@ section {
 }
 .dynamic-txts li{
   list-style: none;
-  color: #FC6D6D;
+  color: transparent;
   font-size: 60px;
   font-weight: 500;
   position: relative;
@@ -87,7 +87,7 @@ section {
   left: 0;
   height: 100%;
   width: 100%;
-  background: #343F4F;
+  background: transparent;
   border-left: 2px solid #FC6D6D;
   animation: typing 3s steps(10) infinite;
 }
