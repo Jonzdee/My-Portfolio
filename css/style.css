@@ -58,6 +58,7 @@ section {
 }
  .dynamic-txts{
   margin-left: 15px;
+   display: flex;
   height: 90px;
   line-height: 90px;
   overflow: hidden;
